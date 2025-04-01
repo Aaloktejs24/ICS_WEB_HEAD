@@ -1,0 +1,40 @@
+{
+    "PYQ": [
+        { "Examname": "End Sem", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Quiz 2", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Mid Sem", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Quiz 1", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "End Sem", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Quiz 2", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Mid Sem", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Quiz 1", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" }
+    ],
+    "Assignments": [
+        { "Examname": "Assignment 1", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Assignment 2", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Assignment 3", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Assignment 4", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Assignment 5", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Assignment 6", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Assignment 7", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Assignment 8", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" }
+    ],
+    "PracticeProblem": [
+        { "Examname": "PP Sheet 1", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "PP Sheet 2", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "PP Sheet 3", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "PP Sheet 4", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "PP Sheet 5", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "PP Sheet 6", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "PP Sheet 7", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "PP Sheet 8", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" }
+    ],
+    "Classnotesfrompi": [
+        { "Examname": "PS RAJ", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" }
+    ],
+    "Amnotes": [
+        { "Examname": "Notes X", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Notes Y", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" },
+        { "Examname": "Notes Z", "Semester": "Spring", "Year": "2025", "link": "https://docs.google.com/document/d/15xtEPLfTOXt9aCV9GwjMLwYV7a6_aff3sqzQSOSI1xY/edit?usp=share_link" }
+    ]
+}

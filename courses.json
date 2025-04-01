@@ -1,0 +1,114 @@
+{
+  "Mathematics": [
+    {
+      "name": "Mathematics - MTH111",
+      "code": "MTH111",
+      "link": "Courses/mth111/mth111.html"
+    },
+    {
+      "name": "Mathematics - MTH112",
+      "code": "MTH112",
+      "link": "Courses/mth112/mth112.html"
+    },
+    {
+      "name": "Mathematics - MTH113",
+      "code": "MTH113",
+      "link": "Courses/mth113/mth113.html"
+    },
+    {
+      "name": "Mathematics - MTH114",
+      "code": "MTH114",
+      "link": "Courses/mth114/mth114.html"
+    }
+  ],
+  "Physics": [
+    {
+      "name": "Physics - PHY111",
+      "code": "PHY111",
+      "link": "Courses/phy111/phy111.html"
+    },
+    {
+      "name": "Physics - PHY112",
+      "code": "PHY112",
+      "link": "Courses/phy112/phy112.html"
+    },
+    {
+      "name": "Physics - PHY113",
+      "code": "PHY113",
+      "link": "Courses/phy113/phy113.html"
+    },
+    {
+      "name": "Physics - PHY114",
+      "code": "PHY114",
+      "link": "Courses/phy114/phy114.html"
+    },
+    {
+      "name": "Physics - PHY115",
+      "code": "PHY115",
+      "link": "Courses/phy115/phy115.html"
+    }
+  ],
+  "Chemistry": [
+    {
+      "name": "Chemistry - CHM111",
+      "code": "CHM111",
+      "link": "Courses/chm111/chm111.html"
+    },
+    {
+      "name": "Chemistry - CHM112",
+      "code": "CHM112",
+      "link": "Courses/chm112/chm112.html"
+    },
+    {
+      "name": "Chemistry - CHM113",
+      "code": "CHM113",
+      "link": "Courses/chm113/chm113.html"
+    }
+  ],
+  "English": [
+    {
+      "name": "English - ELC111",
+      "code": "ELC111",
+      "link": "Courses/elc111/elc111.html"
+    },
+    {
+      "name": "English - ELC112",
+      "code": "ELC112",
+      "link": "Courses/elc112/elc112.html"
+    },
+    {
+      "name": "English - ELC113",
+      "code": "ELC113",
+      "link": "Courses/elc113/elc113.html"
+    }
+  ],
+  "Others": [
+    {
+      "name": "Eng. Graph. - TA111",
+      "code": "TA111",
+      "link": "Courses/ta111/ta111.html"
+    },
+    {
+      "name": "Intro. to Bio. - LIF111",
+      "code": "LIF111",
+      "link": "Courses/lif111/lif111.html"
+    }
+  ],
+  "Computing": [
+    {
+      "name": "Funda. of comp. - ESC111",
+      "code": "ESC111",
+      "link": "Courses/esc111/esc111.html"
+    },
+    {
+      "name": "Funda. of comp. - ESC112",
+      "code": "ESC112",
+      "link": "Courses/esc112/esc112.html"
+    },
+    {
+      "name": "Funda. of comp. - ESC113",
+      "code": "ESC113",
+      "link": "Courses/esc113/esc113.html"
+    }
+  ]
+}
