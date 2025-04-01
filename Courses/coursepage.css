@@ -23,6 +23,7 @@
     font-size: 20px;
     border-radius: 8px;
     width: 400px;
+    max-width:80vw
     height: 150px;
     background: #2643e9;
     display: flex;
